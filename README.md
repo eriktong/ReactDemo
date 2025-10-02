@@ -1,8 +1,9 @@
 # ReactDemo
 
+**Live Demo:** https://eriktong.github.io/ReactDemo/
+
 ![Pages Deploy](https://github.com/eriktong/ReactDemo/actions/workflows/pages.yml/badge.svg) ![Last commit](https://img.shields.io/github/last-commit/eriktong/ReactDemo) ![License](https://img.shields.io/badge/license-MIT-informational)
 
-**Live Demo:** [https://eriktong.github.io/ReactDemo/](https://eriktong.github.io/ReactDemo/)
 
 > Sandbox of React patterns, hooks, and component demos.
 
